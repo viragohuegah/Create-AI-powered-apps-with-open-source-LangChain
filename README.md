@@ -123,6 +123,14 @@ python coderunner.py
 │   ├── pyvenv.cfg
 │   └── share
 ├── pembukaanUUD1945.txt
+├── preview_chatbot
+│   ├── preview_coderunner.png
+│   ├── preview_coverletter.png
+│   ├── preview_customersupport.png
+│   ├── preview_excercise.png
+│   ├── preview_friend_chatbot.png
+│   ├── preview_simple_chatbot.png
+│   └── preview_summarizer.png
 ├── prompt_with_template.py
 ├── simple_llm.py
 └── summarizer.py
