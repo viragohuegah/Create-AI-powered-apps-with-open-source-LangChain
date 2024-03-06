@@ -69,7 +69,8 @@ source my_env/bin/activate
 <a name="usage"></a>
 
 ## Usage
-You can run each of the program by using the command below. For better GUI run on `Public URL`
+You can run each of the program by using the command below. For better GUI run on `Public URL`. Don't forget to insert your API Key.
+
 - Simple Chatbot
 ```bash
 python simple_llm.py
