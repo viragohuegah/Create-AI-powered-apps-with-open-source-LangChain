@@ -4,22 +4,22 @@
 
 We will creating:
 1. Simple Chatbot: Universal interface for various LLMs. 
-<center> <img src="/workspaces/Create-AI-powered-apps-with-open-source-LangChain/preview_chatbot/preview_simple_chatbot.png"> <center>
+<center> <img src="/preview_chatbot/preview_simple_chatbot.png"> <center>
 
 2. Cover Letter Bot: Working with prompts to create cover letter bot.
-<center> <img src="/workspaces/Create-AI-powered-apps-with-open-source-LangChain/preview_chatbot/preview_coverletter.png"> <center>
+<center> <img src="/preview_chatbot/preview_coverletter.png"> <center>
 
 3. Customer Support Chatbot: Building chains for chatbot support.
-<center> <img src="/workspaces/Create-AI-powered-apps-with-open-source-LangChain/preview_chatbot/preview_customersupport.png"> <center>
+<center> <img src="/preview_chatbot/preview_customersupport.png"> <center>
 
 4. Summarizer Bot: Utility Functions for Accessing and Storing Files. Indexes used for file access and storage.
-<center> <img src="/workspaces/Create-AI-powered-apps-with-open-source-LangChain/preview_chatbot/preview_summarizer.png"> <center>
+<center> <img src="/preview_chatbot/preview_summarizer.png"> <center>
 
 5. Friend Chatbot: Implementation of a memory interface for chatbots.
-<center> <img src=""> <center>
+<center> <img src="/preview_chatbot/preview_friend_chatbot.png"> <center>
 
 6. Python Code Writer Bot: Setting up agents that can use tools such as Google Search, Wikipedia, or a calculator.
-<center> <img src="/workspaces/Create-AI-powered-apps-with-open-source-LangChain/preview_chatbot/preview_coderunner.png"> <center>
+<center> <img src="/preview_chatbot/preview_coderunner.png"> <center>
 
 
 
